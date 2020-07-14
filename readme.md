@@ -1,4 +1,5 @@
 # Knowledge Base
+Links to resources, books, tutorials and other stuffs that are useful technically.
 
 ## Natural Language Processing Tutorials
 - Practical NLP with Spacy and/or NLTK
@@ -12,3 +13,6 @@
 
 ## Knowledge Graph and NLP
 - (Michael Galkin) Knowledge Graph in NLP - ACL2020: https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2020-ebb1f0a6e0b1
+
+## Knowledge Graph
+- (Our own KG book) Exploiting Linked Data and Knowledge Graphs in Large Organisations: https://link.springer.com/book/10.1007%2F978-3-319-45654-6
