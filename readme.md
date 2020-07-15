@@ -16,3 +16,6 @@ Links to resources, books, tutorials and other stuffs that are useful technicall
 
 ## Knowledge Graph
 - (Our own KG book) Exploiting Linked Data and Knowledge Graphs in Large Organisations: https://link.springer.com/book/10.1007%2F978-3-319-45654-6
+
+## Graph Neural Network
+- A repo with essential readings for GNN: https://github.com/thunlp/GNNPapers
