@@ -19,3 +19,6 @@ Links to resources, books, tutorials and other stuffs that are useful technicall
 
 ## Graph Neural Network
 - A repo with essential readings for GNN: https://github.com/thunlp/GNNPapers
+
+## Automated Medical Coding
+- Lastest papers on automated medical coding, an area in Clinical Nature Language Processing: https://github.com/acadTags/medical-coding-NLP
