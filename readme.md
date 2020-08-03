@@ -2,10 +2,11 @@
 Links to resources, books, tutorials and other stuffs that are useful technically.
 
 ## Natural Language Processing Tutorials
-- Practical NLP with Spacy and/or NLTK
+- Practical NLP with Spacy, NLTK, and Stanza
   - https://realpython.com/natural-language-processing-spacy-python/
   - https://spacy.io/usage/spacy-101 
   - http://www.nltk.org/book/
+  - https://stanfordnlp.github.io/stanza/biomed.html (Biomedical Models in Stanza)
  
 - NLP with machine learning
   - https://www.coursera.org/specializations/natural-language-processing
