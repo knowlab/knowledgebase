@@ -19,6 +19,7 @@ Links to resources, books, tutorials and other stuffs that are useful technicall
 - (Our own KG book) Exploiting Linked Data and Knowledge Graphs in Large Organisations: https://link.springer.com/book/10.1007%2F978-3-319-45654-6
 
 ## Graph Neural Network
+- Farewell RNNs, Welcome TCNs: https://towardsdatascience.com/farewell-rnns-welcome-tcns-dd76674707c8
 - A repo with essential readings for GNN: https://github.com/thunlp/GNNPapers
 
 ## Automated Medical Coding
