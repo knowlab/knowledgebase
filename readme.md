@@ -1,6 +1,9 @@
 # Knowledge Base
 Links to resources, books, tutorials and other stuffs that are useful technically.
 
+## Reviews
+- (Manning et al, 2015) Advances in natural language processing - https://science.sciencemag.org/content/349/6245/261.full
+
 ## Natural Language Processing Tutorials
 - Practical NLP with Spacy, NLTK, and Stanza
   - https://realpython.com/natural-language-processing-spacy-python/
