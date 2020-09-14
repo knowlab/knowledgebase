@@ -27,3 +27,6 @@ Links to resources, books, tutorials and other stuffs that are useful technicall
 
 ## Automated Medical Coding
 - Lastest papers on automated medical coding, an area in Clinical Nature Language Processing: https://github.com/acadTags/medical-coding-NLP
+
+## COVID-related
+= An ongoing curation of COVID-related NLP tools: https://github.com/acadTags/Awesome-COVID-NLP-tools
