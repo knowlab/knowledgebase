@@ -1,6 +1,11 @@
 # Knowledge Base
 Links to resources, books, tutorials and other stuffs that are useful technically.
 
+## Seminars/Webinars
+- Our own bi-weekly group seminars: https://github.com/knowlab/bi-weekly-paper-presentation
+- Usher Institute Events (various seminars): https://www.edweb.ed.ac.uk/usher/news-events/events
+- JAMIA Journal Club: https://www.amia.org/category/webinars/journal-club
+
 ## Reviews
 - (Manning et al, 2015) Advances in natural language processing - https://science.sciencemag.org/content/349/6245/261.full
 
