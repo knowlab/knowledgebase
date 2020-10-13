@@ -3,7 +3,7 @@ Links to resources, books, tutorials and other stuffs that are useful technicall
 
 ## Seminars/Webinars
 - Our own bi-weekly group seminars: https://github.com/knowlab/bi-weekly-paper-presentation
-- Usher Institute Events (various seminars): https://www.edweb.ed.ac.uk/usher/news-events/events
+- Usher Institute Events (various seminars): https://www.ed.ac.uk/usher/news-events/events
 - JAMIA Journal Club: https://www.amia.org/category/webinars/journal-club
 
 ## Reviews
@@ -31,7 +31,7 @@ Links to resources, books, tutorials and other stuffs that are useful technicall
 - A repo with essential readings for GNN: https://github.com/thunlp/GNNPapers
 
 ## Automated Medical Coding
-- Lastest papers on automated medical coding, an area in Clinical Nature Language Processing: https://github.com/acadTags/medical-coding-NLP
+- Lastest papers on automated medical coding from free-text clinical notes: https://github.com/acadTags/medical-coding-NLP
 
 ## COVID-related
 - An ongoing curation of COVID-related NLP tools: https://github.com/acadTags/Awesome-COVID-NLP-tools
