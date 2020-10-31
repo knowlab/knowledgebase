@@ -8,6 +8,7 @@ Links to resources, books, tutorials and other stuffs that are useful technicall
 
 ## Reviews
 - (Manning et al, 2015) Advances in natural language processing - https://science.sciencemag.org/content/349/6245/261.full
+- Ghahramani, Z., 2015. Probabilistic machine learning and artificial intelligence. Nature, 521(7553), pp.452-459. https://www.nature.com/articles/nature14541
 
 ## Natural Language Processing Tutorials
 - Practical NLP with Spacy, NLTK, and Stanza
