@@ -24,6 +24,7 @@ Links to resources, books, tutorials and other stuffs that are useful technicall
 - (Michael Galkin) Knowledge Graph in NLP - ACL2020: https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2020-ebb1f0a6e0b1
 
 ## Knowledge Graph
+- Ghahramani, Z., 2015. Probabilistic machine learning and artificial intelligence. Nature, 521(7553), pp.452-459. https://www.nature.com/articles/nature14541
 - (Our own KG book) Exploiting Linked Data and Knowledge Graphs in Large Organisations: https://link.springer.com/book/10.1007%2F978-3-319-45654-6
 
 ## Graph Neural Network
