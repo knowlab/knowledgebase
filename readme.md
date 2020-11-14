@@ -21,6 +21,8 @@ Links to resources, books, tutorials and other stuffs that are useful technicall
   - https://www.coursera.org/specializations/natural-language-processing
   - https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 
+- Curated embedding models
+  - https://github.com/Separius/awesome-sentence-embedding
 ## Knowledge Graph and NLP
 - (Michael Galkin) Knowledge Graph in NLP - ACL2020: https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2020-ebb1f0a6e0b1
 
