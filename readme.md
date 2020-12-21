@@ -1,6 +1,9 @@
 # Knowledge Base
 Links to resources, books, tutorials and other stuffs that are useful technically.
 
+## Read it
+- Rajkomar, A., Dean, J. and Kohane, I., 2019. Machine learning in medicine. New England Journal of Medicine, 380(14), pp.1347-1358. [Paper link](https://www.nejm.org/doi/full/10.1056/NEJMra1814259?casa_token=5YTdj-nsTr4AAAAA%3AD0lTAmlogcHap0XvDoQP6dVbF58n7WYANBKOYIXheEi_jcP4Yh5OnMRevzJCmPtK32tnOg2-lMkk1xI)
+
 ## Seminars/Webinars
 - Our own bi-weekly group seminars: https://github.com/knowlab/bi-weekly-paper-presentation
 - Usher Institute Events (various seminars): https://www.ed.ac.uk/usher/news-events/events
