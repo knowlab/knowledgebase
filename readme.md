@@ -3,6 +3,7 @@ Links to resources, books, tutorials and other stuffs that are useful technicall
 
 ## Read it
 - Rajkomar, A., Dean, J. and Kohane, I., 2019. Machine learning in medicine. New England Journal of Medicine, 380(14), pp.1347-1358. [Paper link](https://www.nejm.org/doi/full/10.1056/NEJMra1814259?casa_token=5YTdj-nsTr4AAAAA%3AD0lTAmlogcHap0XvDoQP6dVbF58n7WYANBKOYIXheEi_jcP4Yh5OnMRevzJCmPtK32tnOg2-lMkk1xI)
+- Yoshua Bengio, Yann Lecun, Geoffrey Hinton. Deep Learning for AI Communications of the ACM, July 2021, Vol. 64 No. 7, Pages 58-65. https://cacm.acm.org/magazines/2021/7/253464-deep-learning-for-ai/fulltext
 
 ## Seminars/Webinars
 - Our own bi-weekly group seminars: https://github.com/knowlab/bi-weekly-paper-presentation
